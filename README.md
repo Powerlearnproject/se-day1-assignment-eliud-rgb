@@ -4,20 +4,62 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.
-
+Explain what software engineering is and discuss its importance in the technology industry.Software engineeering is a branch of computer science dealing the development ,testing and mainataining of software.Softaware engineerinf is important in technology in the following ways:It is reliable as it ensures software performs as expected and producses consistent repeated results;The technolgy is efficient in terms pf maintaining high quality standards;the technology id scalable and scalable in that it has the ability to handle any task and delivers with high performance;The technolgy is secure as it requires password,authentication and encryption.
+Identify and describe at least three key milestones in the evolution of software engineering.The birth of software enginering has evolved through the following process;
+1950s - 1960s: Birth of Software Engineering
+During this period, the concept of software engineering emerged in response to the growing complexity of software systems. The term "software engineering" was first used at the NATO Science Committee in 1968, highlighting the need for a disciplined approach to software development.
+1970s - 1980s: Structured Programming and Methodologies
+This era saw the rise of structured programming, which emphasized the use of well-organized code and control structures. Additionally, methodologies such as Waterfall and V-Model were introduced to provide systematic approaches to software development, laying the foundation for modern software engineering practices.
+1990s - Present: Agile and DevOps
+The 1990s marked a shift towards more flexible and iterative development approaches, leading to the emergence of Agile methodologies such as Scrum and Extreme Programming. This period also witnessed the rise of DevOps, emphasizing collaboration between development and operations teams to streamline the software delivery process and enhance overall efficiency.
+These milestones reflect the continuous evolution of software engineering, from its early conceptualization to the adoption of modern agile and collaborative practices.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 
-List and briefly explain the phases of the Software Development Life Cycle.
-
+List and briefly explain the phases of the Software Development Life Cycle.Planning,requirement analysis,design,coding,testing,deployment and maiantainance
+Phase 1:Planning,it involves defining the software purse and scope
+Phase 2:Requirement analysis identifies the final users specifications and requirements
+Phase 3:DesignThe Design phase is all about building the framework. The development team is responsible for software engineering and outlines the software's functionality and aesthetic.  The emphasis lies on outlining the software's structure, navigation, user interfaces, and database design. This phase ensures that the software is user-friendly and performs its tasks efficiently.
+Phase 4:Coding is the process of converting software into a tangible code,the aim of coding is to develop a software that is functional,effcient and user friendly
+Phase 5:Testing,soft ware testing involves stringent measuresto examine and test the sosftware for bugs that might have been slipped during the process of coding.The aim is to ensure flawless software operation before it reaches the end-users. And even identify opportunities for enhancement.
+Phase 6:Deployment is the rolling out or launching of the polished product to the end-user for use
+Phase 7:Maintainance is about constant software updates and evaluations and constant improvements or upgrading in tandem with users or comsumer needs.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+waterfall methodology is an approach that follows a linear seequence of events where each phase is completed before moving to the next.
+- there is Low flexibility,
+ changes are hard to incorporate once a phase is complete.
+ - Customer feedback comes late, after the product is developed.
+ - Testing is done at the end of the development process.
+Waterfall methodologies would be appropriate in projects with concrete timelines and well defined deliverables.It also suits projects that require high volume of documentation have repeatable and and predictable process.
+
+Agile methodology - Iterative and incremental, with multiple cycles (sprints). 
+- High flexibility, adapts to changing requirements. 
+- Regular customer feedback is incorporated into every sprint. 
+- Testing is continuous and done after each iteration.
+
+  Agile methodologies would be appropriate in complex projects where significant constraints are not well understood.It prioritises collabotration,continuos delivery and customer feedback.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Software Developer is tasked with;
+   Developing applications,programs and systems using programming languages and frameworks,maintaining and updating software     to keep it functional, 
+   Collaborating with other team members to ensure best practice when developing software.
+   Reporting to the project manager about the progress of the software development.
 
+Quality Assurance Engineer has the folloeing duties and responsibilities;
+   Collaborate with stakeholders to understand and clarify software requirement.
+   Create development standards and procedures for the programmers to follow
+   Confirm that the software meets the requirement before deployment. 
+   Analyse the product to identify bugs and suggest changes to make them more efficient. 
+   Develop and execute automation scripts using open source tools.
+Project Manager perform the followng duties and responsibilities;
+   Assembles and lead the software development team.
+   Discus the project and it's requirement with the client and software developers.
+   Create blueprint for the project.
+   Tracking and communicating information regarding the project milestone.
+   Deliver the complete software to the client and regularly check its performance.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
@@ -29,7 +71,6 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 #Part 2: Introduction to AI and Prompt Engineering
-
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
