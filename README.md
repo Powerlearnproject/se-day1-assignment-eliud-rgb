@@ -3,7 +3,6 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-
 Explain what software engineering is and discuss its importance in the technology industry.Software engineeering is a branch of computer science dealing the development ,testing and mainataining of software.Softaware engineerinf is important in technology in the following ways:It is reliable as it ensures software performs as expected and producses consistent repeated results;The technolgy is efficient in terms pf maintaining high quality standards;the technology id scalable and scalable in that it has the ability to handle any task and delivers with high performance;The technolgy is secure as it requires password,authentication and encryption.
 Identify and describe at least three key milestones in the evolution of software engineering.The birth of software enginering has evolved through the following process;
 1950s - 1960s: Birth of Software Engineering
